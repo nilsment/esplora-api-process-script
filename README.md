@@ -1,4 +1,4 @@
-# esplora-api-process-script-js
+# esplora-api-process-script
 Script in JS to pull data from an Esplora API Server, process and output it in HTML.
 
 This script can be used to 
